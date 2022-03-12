@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **nazmulpro/nazmulpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi 👋 , I'm Nazmul Hossain 
+
+I’m a Full Stack .Net Developer with passion for delivering quality software that is easy to use, maintainable, and extensible.
+Love programming , watch movies , listen music .......
